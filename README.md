@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexCornforth)](https://github.com/AlexCornforth/github-readme-stats)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexCornforth&show_icons=true)](https://github.com/AlexCornforth/github-readme-stats)
 
 <!--
 **AlexCornforth/AlexCornforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
