@@ -7,6 +7,8 @@ I'm Alex, a developer from Leeds, UK. I'm passionate about building technology t
  
 - [🌊🏄  Surfline](https://www.surfline.com) ([📱 iOS ](https://apps.apple.com/gb/app/surfline-wave-surf-reports/id393782096)) Connecting people with the ocean. 
 
+### ⌛️  Past projects...
+
 ### Find me on:
 - [Stack Overflow](https://stackoverflow.com/users/10657724/alex-cornforth)
 - [LinkedIn](https://uk.linkedin.com/in/alexcornforth)
