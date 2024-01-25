@@ -4,9 +4,9 @@ I'm Alex, a developer from Leeds, UK. I'm passionate about building technology t
 
 ### 💻  Projects I’m currently working on...
 
-- [🌱 🌳  Greenstand](https://www.greenstand.org) ([📱 iOS Project ](https://github.com/Greenstand/treetracker-ios)) Addressing Poverty and Climate Change Through Technology
- 
 - [🌊 🏄  Surfline](https://www.surfline.com) ([📱 iOS ](https://apps.apple.com/gb/app/surfline-wave-surf-reports/id393782096)) Connecting people with the ocean. 
+
+- [🌱 🌳  Greenstand](https://www.greenstand.org) ([📱 iOS Project ](https://github.com/Greenstand/treetracker-ios)) Addressing Poverty and Climate Change Through Technology
 
 ### ⌛️  Past projects...
 
